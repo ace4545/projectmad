@@ -74,7 +74,7 @@ nextPrompt();
 setTimeout(function() {
   $('.welcome').fadeOut()
   $('.hidden').fadeIn()
-}, 700);
+}, 5000);
 
 $('#back').on('click', function() {
   console.log("help");
