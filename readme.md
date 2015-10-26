@@ -1,8 +1,10 @@
 This is the README for madlibs.
 
+Here is the link
+<http://ace4545.github.io/projectmad/>
 
 
-**Goals**
+#Goals
 
 *[✓] Make a working Madlibs Game.
 
@@ -20,6 +22,29 @@ This is the README for madlibs.
 
 
 
-**Description**
+#Description
 
 This madlibs game should be fun and addictive. Madlibs allows users to use their knowledge of the English language to complete the story that they are given. With this in mind, Madlibs is also great for groups.The fun and whacky story books that people might have played with in their youth can now be recreated online. I have done this using my limited knowledge of JavaScript. Currently there is only two stories, but as my knowledge increases, so will this game.
+
+
+
+![Example madlibs](http://cdn.rainbowresource.netdna-cdn.com/products/001471i1.jpg)
+
+
+
+#Technology
+
+
+*JavaScript
+
+*Jquery
+
+*CSS
+
+*HTML
+
+# Next Steps
+
+*[]Get the Back button to work correctly.
+
+*[]Set up multiple story branches.
